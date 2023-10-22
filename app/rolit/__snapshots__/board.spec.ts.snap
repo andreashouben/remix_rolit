@@ -1,0 +1,12 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`board > initializes as 8x8 grid with the four colors in the middle 1`] = `
+"O O O O O O O O
+O O O O O O O O
+O O O O O O O O
+O O O R G O O O
+O O O B Y O O O
+O O O O O O O O
+O O O O O O O O
+O O O O O O O O"
+`;
